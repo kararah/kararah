@@ -10,5 +10,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kararah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kararah&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=kararah&label=Profile%20Views&icon=6&pretty=false)](https://visitcount.itsvg.in)
+
+
+
+[![kara's GitHub | Stats](https://stats.quira.sh/kara/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=kara)
